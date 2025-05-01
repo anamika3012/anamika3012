@@ -25,6 +25,12 @@
 
 ###
 
+###
+
+<img align="right" height="171" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5uYXZ0NmFhdDRrMXV0c2xtaTVnbnE0NTd3bnRoNnJnbnc1cnZiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRmOK4J2261gI/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -39,11 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5uYXZ0NmFhdDRrMXV0c2xtaTVnbnE0NTd3bnRoNnJnbnc1cnZiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRmOK4J2261gI/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
