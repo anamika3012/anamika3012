@@ -5,7 +5,7 @@
 ➤ Figuring Things one at a time ✨.<br><br>
 
 
-# Tech Start 👩‍💻
+# Tech Stack 👩‍💻
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
   <img width="12" />
