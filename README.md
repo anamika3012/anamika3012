@@ -1,6 +1,6 @@
 ## Hey! I'm Anamika💫
 
-➤ Computer science student at Indian Institute of Information Technology Bhagalpur , India. <br>
+➤ Systems Engineer @ Infosys Limited. <br> <!--➤ Computer science student at Indian Institute of Information Technology Bhagalpur , India. <br> -->
 ➤ Consistently Learning DSA and development. <br>
 ➤ Figuring Things one at a time ✨.<br><br>
 
