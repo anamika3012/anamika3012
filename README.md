@@ -39,11 +39,10 @@
 
 
 # GitHub Stats 🌱
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika3012&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=anamika3012&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anamika3012&theme=transparent&hide_border=false)<br/>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anamika3012&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika3012&langs_count=5&theme=tokyonight)]()
+
+
 
 
 # Contact 📧
