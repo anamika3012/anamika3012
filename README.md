@@ -1,6 +1,7 @@
 ## Hey! I'm Anamika💫
 
 ➤ Systems Engineer @ Infosys Limited. <br> <!--➤ Computer science student at Indian Institute of Information Technology Bhagalpur , India. <br> -->
+➤ Working on  PL/SQL and Oracle EBS R12 <br>
 ➤ Consistently Learning DSA and development. <br>
 ➤ Figuring Things one at a time ✨.<br><br>
 
