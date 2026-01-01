@@ -35,14 +35,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
 </div><br>
-
-
-
-# GitHub Stats 🌱
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anamika3012)
-
-
-
+<!--# GitHub Stats 🌱
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamika3012&theme=default&show_icons=true&hide_border=true&count_private=true)-->
 
 # Contact 📧
 <div align="left">
